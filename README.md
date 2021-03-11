@@ -43,6 +43,7 @@ Fixed bugs from existing websites and implemented enhancements that significantl
 [![alt text][4.1]][4]
 [![alt text][5.1]][5]
 [![alt text][6.1]][6]
+[![alt text][7.1]][7]
 
 
 
@@ -73,5 +74,7 @@ Fixed bugs from existing websites and implemented enhancements that significantl
 ###
 
 ### Platform Expert :
+
 ###
-https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
+
+[7.1]: https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
