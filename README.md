@@ -1,3 +1,5 @@
+
+
 ### Greetings 👋, 
 
 Dedicated and efficient full stack developer with over 3+ years experience in user interface layers development using REACT JS, HTML, BOOTSTRAP. My self Muhammad Faiz Khan a Full Stack certified in MERN Stack technologies. Spearheaded successful transition to MERN which cut latency of BACK END by 40% and increased effectiveness of FRONT END by 60%. Seeking to further improve HTML5 and CSS3 skills as the future full stack developer at Upwork, Fiverr and Freelancer.
@@ -15,7 +17,7 @@ Trained over 5+ staff members in internal web functions, including steps on how 
 Fixed bugs from existing websites and implemented enhancements that significantly improved web functionality and speed.
 
 
-
+####
 
 
 ![Faiz Khan's github stats](https://github-readme-stats.vercel.app/api?username=muhammadfaizkhan&show_icons=true)
@@ -25,4 +27,4 @@ Fixed bugs from existing websites and implemented enhancements that significantl
 
 ### Employment History : 
  Full Stack Developer - ( LinkYou Inc )
- ##### Nov-2020 | Feb-2021
+ Nov-2020 | Feb-2021
