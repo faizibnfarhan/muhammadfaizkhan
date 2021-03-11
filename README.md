@@ -40,7 +40,7 @@ Fixed bugs from existing websites and implemented enhancements that significantl
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
 [![alt text][3.1]][3]
-[![alt text][6.1]][6
+[![alt text][6.1]][6]
 
 
 
