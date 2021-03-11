@@ -25,4 +25,4 @@ Fixed bugs from existing websites and implemented enhancements that significantl
 
 ### Employment History : 
  Full Stack Developer - ( LinkYou Inc )
- #### Nov-2020 | Feb-2021
+ ##### Nov-2020 | Feb-2021
