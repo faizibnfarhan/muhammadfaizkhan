@@ -4,10 +4,15 @@ Dedicated and efficient full stack developer with over 3+ years experience in us
 
 ### Key Objectives :
 
-    Revamped web application security applications, minimizing hacker attacks from 2.3% to 0.02%
-    Designed and developed user-friendly website, including optimized check-out page that increased user clicks, and subsequently customer purchases by 20%
-    Trained over 5+ staff members in internal web functions, including steps on how to independently make minor updates or changes
-    Fixed bugs from existing websites and implemented enhancements that significantly improved web functionality and speed
+Revamped web application security applications, minimizing hacker attacks from 2.3% to 0.02%.
+    
+Managed, optimized, and updated PHP databases as necessary.
+    
+Designed and developed user-friendly website, including optimized check-out page that increased user clicks, and subsequently customer purchases by 20%.
+    
+Trained over 5+ staff members in internal web functions, including steps on how to independently make minor updates or changes.
+    
+Fixed bugs from existing websites and implemented enhancements that significantly improved web functionality and speed.
 
 
 
