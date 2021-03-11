@@ -1,4 +1,7 @@
 
+<img src="https://media-exp1.licdn.com/dms/image/C5616AQFyh0cKa3jSEQ/profile-displaybackgroundimage-shrink_200_800/0/1615042365795?e=1620864000&v=beta&t=YUQbNQhTs-3KVVvTtGNjAbWx1-8BrAdZsv82OwJZs0M"/>
+
+###
 
 ### Hi, There 👋
 
@@ -37,8 +40,7 @@ Fixed bugs from existing websites and implemented enhancements that significantl
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
 [![alt text][3.1]][3]
-[![alt text][6.1]][6]
-
+[![alt text][6.1]][6
 
 
 
