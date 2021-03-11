@@ -18,6 +18,11 @@ Fixed bugs from existing websites and implemented enhancements that significantl
 
 
 
-
 ![Faiz Khan's github stats](https://github-readme-stats.vercel.app/api?username=muhammadfaizkhan&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadfaizkhan)
+
+
+
+### Employment History : 
+ Full Stack Developer - ( LinkYou Inc )
+ # Nov-2020 | Feb-2021
