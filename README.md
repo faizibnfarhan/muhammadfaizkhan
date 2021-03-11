@@ -28,3 +28,9 @@ Fixed bugs from existing websites and implemented enhancements that significantl
 ### Employment History : 
  Full Stack Developer - ( LinkYou Inc )
  Nov-2020 | Feb-2021
+
+### 
+
+### Social Connections : 
+###
+[![LinkedIn][linkedin-shield]][https://linkedin.com/in/muhammadfaizkhan]
