@@ -40,24 +40,27 @@ Fixed bugs from existing websites and implemented enhancements that significantl
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
 [![alt text][3.1]][3]
-[![alt text][6.1]][6]
+[![alt text][4.1]][4]
+[![alt text][5.1]][5]
 
 
 
 <!-- icons with padding -->
 
 [1.1]: http://i.imgur.com/tXSoThF.png 
-[2.1]: http://i.imgur.com/P3YfQoD.png 
-[3.1]: http://i.imgur.com/yCsTjba.png  
-[6.1]: http://i.imgur.com/0o48UoR.png
+[2.1]: https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white
+[3.1]: https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+[4.1]: http://i.imgur.com/0o48UoR.png
+[5.1]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 
 
 <!-- update these accordingly -->
 
 [1]: https://www.twitter.com/mfaizkhan20
 [2]: https://www.facebook.com/mfaiz.khan.52831/
-[3]: https://plus.google.com/+CarlSednaoui
-[6]: https://www.github.com/muhammadfaizkhan
+[3]: https://www.instagram.com/mfaizkhan
+[4]: https://www.github.com/muhammadfaizkhan
+[5]: https://www.linkedin.com/in/muhammadfaizkhan
 
 ###
 
