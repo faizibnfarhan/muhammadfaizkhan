@@ -21,7 +21,7 @@ Dedicated and efficient full stack developer with over 3+ years experience in us
 
 Revamped web application security applications, minimizing hacker attacks from 2.3% to 0.02%.
     
-Managed, optimized, and updated PHP databases as necessary.
+Managed, optimized, and updated MongoDB databases as necessary.
     
 Designed and developed user-friendly website, including optimized check-out page that increased user clicks, and subsequently customer purchases by 20%.
     
