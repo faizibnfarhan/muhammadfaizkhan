@@ -1,11 +1,13 @@
 
-<img src="![COVER](https://user-images.githubusercontent.com/64866852/143066707-03bbf1d1-9d39-4200-9c9f-9cc39da596dd.png)"/>
+<img src="https://user-images.githubusercontent.com/64866852/143066707-03bbf1d1-9d39-4200-9c9f-9cc39da596dd.png"/>
 
 ###
 
 ### Hi 👋
 
-Full Stack with demonstrated command of Front End. I'm Muhammad Faiz Khan. React JS Proficient with practices for Next JS, MongoDB, GraphQL and Firebase. Intermediate in JavaScript, offering solid comprehension of cultural diversity. Experience includes collaborating in team-driven environments to create high-performance websites that customers and business both love.
+It is Muhammad Faiz Khan, who love to read business related books. I'm a highly motivated future business person. I use to do coding as profession.
+Well, I've a prior experience in developing websites and working on websites and apps maintenance. I'll be very glad full, If you wanna hire me or
+have a business plan to share with me as a partner. An active cryptocurrency investor.
 
 ### Tools : 
 
@@ -51,7 +53,7 @@ Fixed bugs from existing websites and implemented enhancements that significantl
 [![alt text][3.1]][3]
 [![alt text][4.1]][4]
 [![alt text][5.1]][5]
-[![alt text][6.1]][6]
+
 
 
 
