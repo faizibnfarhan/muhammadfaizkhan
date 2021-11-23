@@ -1,9 +1,9 @@
 
-<img src="https://media-exp1.licdn.com/dms/image/C5616AQFyh0cKa3jSEQ/profile-displaybackgroundimage-shrink_200_800/0/1615042365795?e=1620864000&v=beta&t=YUQbNQhTs-3KVVvTtGNjAbWx1-8BrAdZsv82OwJZs0M"/>
+<img src="![COVER](https://user-images.githubusercontent.com/64866852/143066707-03bbf1d1-9d39-4200-9c9f-9cc39da596dd.png)"/>
 
 ###
 
-### Hi, There 👋
+### Hi 👋
 
 Full Stack with demonstrated command of Front End. I'm Muhammad Faiz Khan. React JS Proficient with practices for Next JS, MongoDB, GraphQL and Firebase. Intermediate in JavaScript, offering solid comprehension of cultural diversity. Experience includes collaborating in team-driven environments to create high-performance websites that customers and business both love.
 
@@ -23,19 +23,18 @@ Revamped web application security applications, minimizing hacker attacks from 2
     
 Managed, optimized, and updated MongoDB databases as necessary.
     
-Designed and developed user-friendly website, including optimized check-out page that increased user clicks, and subsequently customer purchases by 20%.
+Developed user-friendly website, including optimized check-out page that increased user clicks, and subsequently customer purchases by 20%.
     
 Trained over 5+ staff members in internal web functions, including steps on how to independently make minor updates or changes.
     
-Fixed bugs from existing websites and implemented enhancements that significantly improved web functionality and speed.
+Fixed bugs from existing websites and implemented enhancements that significantly improved web functionality and speed as such wordpress and html.
 
 ###
 
 ### Languages :
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
 
 ####
 
@@ -43,19 +42,6 @@ Fixed bugs from existing websites and implemented enhancements that significantl
 ![Faiz Khan's github stats](https://github-readme-stats.vercel.app/api?username=muhammadfaizkhan&show_icons=true)
 
 
-
-
-### Employment History : 
-
-## LinkYou Inc
-Front End Development Intern
-
-➡ Developed sites to work with Microsoft Edge, Mozilla Firefox and Google Chrome.
-➡ Designed, built and maintained complete HTML5 and Bootstrap 5 websites and tested API'S.
-
-
-
-### 
 
 ### Social Connections : 
 ###
@@ -76,7 +62,6 @@ Front End Development Intern
 [3.1]: https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 [4.1]: https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
 [5.1]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-[6.1]: https://img.shields.io/badge/Behance-0077B5?style=for-the-badge&logo=behance&logoColor=white
 
 
 <!-- update these accordingly -->
@@ -106,12 +91,13 @@ Front End Development Intern
 ### Frameworks :
 
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
 
 ###
 
