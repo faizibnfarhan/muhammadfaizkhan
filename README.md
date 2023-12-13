@@ -80,7 +80,7 @@ Fixed bugs from existing websites and implemented enhancements that significantl
 
 
 
-<img src="https://github.com/muhammadfaizkhan/muhammadfaizkhan/assets/64866852/1b4fef60-e86c-4c21-8c6f-469b48143f00" width="30" height="30"/>
+<img src="https://github.com/muhammadfaizkhan/muhammadfaizkhan/assets/64866852/789ea3b1-dd0e-4f3f-8fe8-dc701dc074a0" width="30" height="30"/>
 
 
 ###
