@@ -80,7 +80,7 @@ Fixed bugs from existing websites and implemented enhancements that significantl
 
 
 
-<i class="fa-brands fa-apple fa-2xs">MacOS</i>
+<i class="fa-brands fa-apple fa-2xs"></i>
 
 ###
 
