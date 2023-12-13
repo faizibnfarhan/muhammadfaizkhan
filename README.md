@@ -80,7 +80,8 @@ Fixed bugs from existing websites and implemented enhancements that significantl
 
 
 
-<img src="https://www.flaticon.com/free-icon/happy-mac_2168292?term=mac&page=1&position=10&origin=search&related_id=2168292"/>
+[image](https://github.com/muhammadfaizkhan/muhammadfaizkhan/assets/64866852/1b4fef60-e86c-4c21-8c6f-469b48143f00)
+
 
 ###
 
