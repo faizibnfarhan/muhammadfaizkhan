@@ -78,7 +78,7 @@ Fixed bugs from existing websites and implemented enhancements that significantl
 
 ###
 
-<img src="https://img.shields.io/badge/MacOs?style=for-the-badge&logo=mac&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mac?style=for-the-badge&logo=mac&logoColor=white"/>
 
 
 ###
