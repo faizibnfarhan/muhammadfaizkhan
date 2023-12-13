@@ -80,7 +80,7 @@ Fixed bugs from existing websites and implemented enhancements that significantl
 
 
 
-<img src="https://www.flaticon.com/free-icon/happy-mac_2168292?term=mac&page=1&position=10&origin=search&related_id=2168292" style={{ width: "30px", height: "40px"}}/>
+<img src="https://www.flaticon.com/free-icon/happy-mac_2168292?term=mac&page=1&position=10&origin=search&related_id=2168292"/>
 
 ###
 
