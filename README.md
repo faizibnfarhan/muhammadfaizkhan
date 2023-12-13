@@ -78,12 +78,8 @@ Fixed bugs from existing websites and implemented enhancements that significantl
 
 ###
 
-
-<p style="display: flex; align-items: center; justify: center;">
+    <img src="https://icons.veryicon.com/png/o/application/skills-section/windows-51.png" width="20" height="20"/>
     <img src="https://icons.veryicon.com/png/o/business/office-icon-series/apple-144.png" width="20" height="20"/>
-    Mac
-</p>
-
 
 ###
 
