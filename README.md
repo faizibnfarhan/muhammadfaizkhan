@@ -80,7 +80,7 @@ Fixed bugs from existing websites and implemented enhancements that significantl
 
 
 
-<i style="font-size:24px" class="fa">&#xf179;</i>
+<i style="font-size:24px" class="fa fa-apple">&#xf179;</i>
 
 ###
 
