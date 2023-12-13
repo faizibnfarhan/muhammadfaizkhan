@@ -80,8 +80,7 @@ Fixed bugs from existing websites and implemented enhancements that significantl
 
 ###
 
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-<img src="https://img.shields.io/badge/Mac?style=for-the-badge&logo=mac&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mac-0078D6?style=for-the-badge&logo=mac&logoColor=white"/>
 
 
 ###
@@ -104,4 +103,3 @@ Fixed bugs from existing websites and implemented enhancements that significantl
 
 <img src="https://img.shields.io/badge/Intel-Core_i7_8th-4810MQ?style=for-the-badge&logo=intel&logoColor=white" />
 <img src="https://img.shields.io/badge/NVIDIA-Quadro-K2100M?style=for-the-badge&logo=nvidia&logoColor=white" />
-<img src="https://img.shields.io/badge/MacOS?style=for-the-badge&logo=macos&logoColor=white" />
