@@ -79,7 +79,7 @@ Fixed bugs from existing websites and implemented enhancements that significantl
 ###
 
 <img src="https://icons.veryicon.com/png/o/application/skills-section/windows-51.png" width="23" height="23"/>
-<img src="https://icons8.com/icon/e9ne6HZHvrji/apple-logo" width="23" height="23"/>
+<img src="https://icons.veryicon.com/png/o/education-technology/edit-job-operator/mac-address-regulation.png" width="23" height="23"/>
 
 ###
 
