@@ -32,7 +32,6 @@ Fixed bugs from existing websites and implemented enhancements that significantl
 ### Languages :
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Python?style=for-the-badge&logo=python&logoColor=black"/>
 
 
 ####
@@ -45,8 +44,7 @@ Fixed bugs from existing websites and implemented enhancements that significantl
 ### Social Connections : 
 ###
 
-[![alt text][1.1]][1]
-[![alt text][2.1]][2]
+
 [![alt text][3.1]][3]
 [![alt text][4.1]][4]
 [![alt text][5.1]][5]
@@ -80,7 +78,7 @@ Fixed bugs from existing websites and implemented enhancements that significantl
 
 ###
 
-<img src="https://img.shields.io/badge/Mac-0078D6?style=for-the-badge&logo=mac&logoColor=white"/>
+<img src="https://img.shields.io/badge/MacOs?style=for-the-badge&logo=mac&logoColor=white"/>
 
 
 ###
