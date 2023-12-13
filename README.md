@@ -4,15 +4,15 @@
 
 ### Hi 👋
 
-It is Muhammad Faiz Khan, who love to read business related books. I'm a highly motivated future business person. I use to do coding as profession.
+It is Muhammad Faiz Khan, who love to code business applications. I'm a highly motivated software development individual. I use to do coding as profession.
 Well, I've a prior experience in developing websites and working on websites and apps maintenance. I'll be very glad full, If you wanna hire me or
-have a business plan to share with me as a partner. An active cryptocurrency investor.
+have a contract to share with me as a partner.
 
 ### Tools : 
 
 ###
 
-<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
+<img src="https://img.shields.io/badge/aws-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white"/>
