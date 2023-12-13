@@ -78,12 +78,8 @@ Fixed bugs from existing websites and implemented enhancements that significantl
 
 ###
 
-<p style="display:flex; align-items: center; padding-left: 25px;">
-    <img src="https://icons.veryicon.com/png/o/application/skills-section/windows-51.png" width="23" height="23"/>
+<img src="https://icons.veryicon.com/png/o/application/skills-section/windows-51.png" width="23" height="23"/>
 <img src="https://icons.veryicon.com/png/o/education-technology/edit-job-operator/mac-address-regulation.png" width="26" height="26"/>
-
-</p>
-
 
 ### Frameworks :
 
