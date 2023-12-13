@@ -80,7 +80,7 @@ Fixed bugs from existing websites and implemented enhancements that significantl
 
 
 
-<img src="https://github.com/muhammadfaizkhan/muhammadfaizkhan/assets/64866852/789ea3b1-dd0e-4f3f-8fe8-dc701dc074a0" width="30" height="30"/>
+<img src="https://icons.veryicon.com/png/o/business/office-icon-series/apple-144.png" width="30" height="30"/>
 
 
 ###
