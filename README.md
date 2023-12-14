@@ -4,7 +4,7 @@
 
 ### Hi 👋
 
-It is Muhammad Faiz Khan, who love to code business applications. I'm a highly motivated software development individual. I use to do coding as profession.
+It is Muhammad Faiz Khan, who love to solve business problems as a highly motivated software development individual. I use to do coding as profession.
 Well, I've a prior experience in developing websites and working on websites and apps maintenance. I'll be very glad full, If you wanna hire me or
 have a contract to share with me as a partner.
 
